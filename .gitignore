@@ -1,0 +1,10 @@
+.DS_Store
+.expo/
+**/__pycache__/
+*.pyc
+backend/venv/
+backend/data/*.db
+frontend/node_modules/
+frontend/.env
+backend/.env
+backend/*firebase-adminsdk*.json
